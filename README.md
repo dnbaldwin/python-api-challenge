@@ -15,6 +15,8 @@ A brief interpretation of the graphical results and regression analyses are incl
 
 PART 2: VacationPy
 
+VacationPy is reasonably self explanatory. The visual interpretation of the graphs suggests that most humid locations are coastal, which is to be expected. The cities with a maximum humidity of 85% were selected for vacations and hotels can be seen using the hover tool.
+
 Resources used:
 
 https://stackoverflow.com/questions/51865367/cannot-convert-the-series-to-class-int
