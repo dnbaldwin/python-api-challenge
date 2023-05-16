@@ -1,6 +1,7 @@
 # python-api-challenge
 Module 06 Challenge
 
+PART 1: WeatherPy
 
 Resources used:
 
@@ -11,3 +12,6 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
 https://thatascience.com/learn-python/unix-timestamp-conversion/#Converting_unix_timestamp_string_to_readable_date_in_python
 https://www.statology.org/matplotlib-get-axis-limits/
 https://www.tutorialspoint.com/how-do-i-make-sans-serif-superscript-or-subscript-text-in-matplotlib
+
+PART 2: VacationPy
+
